@@ -1,0 +1,13 @@
+POST  http://localhost:3005/api/notes 
+Content-Type: application/json
+
+{
+
+"important":false
+}
+
+
+###
+
+GET  http://localhost:3000/api/notes 
+
